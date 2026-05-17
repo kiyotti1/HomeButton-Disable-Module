@@ -1,0 +1,6 @@
+id=homebutton-disable
+name=HomeButton Disable Module
+version=v1.0
+versionCode=1
+author=kiyotti
+description=ホームボタン（key 102 HOME）を無効化するMagiskモジュール。非対応端末では変更を行わず、そのまま終了します。
